@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "PayPal-iOS-Dynamic-Loader"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Allows the use of the PayPal SDK for iOS without importing it"
   s.description  = <<-DESC
   Allows the use of the PayPal SDK for iOS without importing it
