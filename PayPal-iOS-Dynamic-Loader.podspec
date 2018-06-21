@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "9.0"
   s.authors      = { 'Konstantinos Karagiannis' => 'kkarayannis@gmail.com' }
   s.homepage     = 'https://www.kite.ly'
-  s.source       = { :git => "https://github.com/OceanLabs/PayPal-iOS-Dynamic-Loader.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/OceanLabs/PayPal-iOS-Dynamic-Loader.git", :tag => "v" + s.version.to_s }
   s.source_files  = ["*.{h,m}"]
   s.module_name         = 'PayPalDynamicLoader'
 
