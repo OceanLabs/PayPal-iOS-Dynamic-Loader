@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2E51FE8E20E230E500E62102"
-               BuildableName = "PayPal_iOS_Dynamic_Loader.framework"
-               BlueprintName = "PayPal-iOS-Dynamic-Loader"
-               ReferencedContainer = "container:PayPal-iOS-Dynamic-Loader.xcodeproj">
+               BlueprintIdentifier = "2E51FEAA20E235FD00E62102"
+               BuildableName = "PayPalDynamicLoader.framework"
+               BlueprintName = "PayPalDynamicLoader"
+               ReferencedContainer = "container:PayPalDynamicLoader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2E51FE8E20E230E500E62102"
-            BuildableName = "PayPal_iOS_Dynamic_Loader.framework"
-            BlueprintName = "PayPal-iOS-Dynamic-Loader"
-            ReferencedContainer = "container:PayPal-iOS-Dynamic-Loader.xcodeproj">
+            BlueprintIdentifier = "2E51FEAA20E235FD00E62102"
+            BuildableName = "PayPalDynamicLoader.framework"
+            BlueprintName = "PayPalDynamicLoader"
+            ReferencedContainer = "container:PayPalDynamicLoader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2E51FE8E20E230E500E62102"
-            BuildableName = "PayPal_iOS_Dynamic_Loader.framework"
-            BlueprintName = "PayPal-iOS-Dynamic-Loader"
-            ReferencedContainer = "container:PayPal-iOS-Dynamic-Loader.xcodeproj">
+            BlueprintIdentifier = "2E51FEAA20E235FD00E62102"
+            BuildableName = "PayPalDynamicLoader.framework"
+            BlueprintName = "PayPalDynamicLoader"
+            ReferencedContainer = "container:PayPalDynamicLoader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
