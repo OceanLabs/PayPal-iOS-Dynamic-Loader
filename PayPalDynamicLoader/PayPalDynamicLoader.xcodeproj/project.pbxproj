@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2E51FEB020E235FD00E62102 /* PayPalDynamicLoader.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E51FEAE20E235FD00E62102 /* PayPalDynamicLoader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2E51FEB820E2360900E62102 /* OLPayPalWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E51FEB620E2360900E62102 /* OLPayPalWrapper.h */; };
+		2E51FEB820E2360900E62102 /* OLPayPalWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E51FEB620E2360900E62102 /* OLPayPalWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E51FEB920E2360900E62102 /* OLPayPalWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E51FEB720E2360900E62102 /* OLPayPalWrapper.m */; };
 /* End PBXBuildFile section */
 
